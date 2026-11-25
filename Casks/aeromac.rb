@@ -1,6 +1,6 @@
 cask "aeromac" do
-  version "1.3.0"
-  sha256 "774af7c8eb604d24db788d21570180dca0e1ef85f6ea8b55443ceefaff263fe6"
+  version "1.7.0"
+  sha256 "d856a0889740bcd48bcec218246e4b619c34c23962e09de64dd443c91c30cd05"
 
   url "https://aeromac.app/v1/AeroMac-#{version}-arm64.dmg"
   name "AeroMac"
